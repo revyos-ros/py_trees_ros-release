@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:revyos-ros/py_trees_ros-release
+release_repo_url: git@github.com:revyos-ros/py_trees_ros-release.git
 tracks:
   humble:
     actions:
